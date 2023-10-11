@@ -1,1 +1,13 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body::before{
+    content: "";
+    background-image: url("./escriba.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: .6;
+    z-index: -1;
+}
