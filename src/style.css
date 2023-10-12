@@ -1,6 +1,6 @@
 body::before {
   content: "";
-  background-image: url("/workspaces/pt-48-anderson-domainnamegenerator/src/assets/img/escriba.png");
+  background-image: url("/escriba.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
